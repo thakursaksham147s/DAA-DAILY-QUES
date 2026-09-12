@@ -1,5 +1,0 @@
-Questions 9 and 12 were provided as Facebook links only.
-The actual problem statements could not be determined reliably from the text.
-
-Please send screenshots or paste the question statements for Q9 and Q12.
-Then their C files can be added to this set.
